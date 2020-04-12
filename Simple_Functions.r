@@ -8,12 +8,12 @@ above10 <- function(x) {
 }
 
 above <- function (x, n = 10) {
-  use <- x > n 
+  use <- x > n
   x[use]
 }
 
 columnmean <- function(y, removeNA = TRUE) {
-  
+
   nc <- ncol(y)
   means <- numeric(nc)
   for(i in 1:nc) {
