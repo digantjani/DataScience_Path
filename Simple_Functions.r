@@ -1280,6 +1280,7 @@ Selection: 0
 
 Selection: 0
 
+<<<<<<< HEAD
 | Leaving swirl now. Type swirl() to resume.'
 
 
@@ -1363,3 +1364,6 @@ str(s)
     }
     ## RPROF()
     ## SummaryRprof() summerize output. bytotal and byself
+=======
+| Leaving swirl now. Type swirl() to resume.
+>>>>>>> 95482cce2ab0629f5e8a043b6fa7c04d057f7bde
